@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Proyecto(Recurse-PEF).sln"
+    "dotnet.defaultSolution": "RecursePEF.sln"
 }
