@@ -56,8 +56,8 @@ Material:
     - _Speed: 0.25
     - _alfa_scale: 0.55
     - _escala: 15
-    - _frenel_Power: 6
-    - _intensity: 75
+    - _frenel_Power: 5
+    - _intensity: 40
     m_Colors:
     - _BackColor1: {r: 0.34673816, g: 0.11690103, b: 0.6698113, a: 0}
     - _BackColor2: {r: 1, g: 0.29116464, b: 0, a: 0}
